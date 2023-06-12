@@ -21,7 +21,7 @@ app.get("/", function(req, res){
 app.post("/", function(req,res){
 	const ask = req.body.cityName
 
-	const apiKey = "check my openmap profile🤪";
+	const apiKey = "a6f054d979f364e4079b1ad144da3bfa";
 
 	const unit = "metric";
 
